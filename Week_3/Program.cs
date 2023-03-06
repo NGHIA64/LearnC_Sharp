@@ -7,7 +7,7 @@ namespace week_3
         {
             Console.WriteLine("Nhap du lieu: ");
             int a = int.Parse(Console.ReadLine());
-            Console.WriteLine(a + 6);
+            Console.WriteLine(a + 10);
         }
     }
 }
